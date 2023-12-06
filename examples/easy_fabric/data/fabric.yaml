@@ -1,0 +1,4 @@
+---
+fabric:
+  BGP_AS: "65013"
+  GRFIELD_DEBUG_FLAG: "Enable"
